@@ -9,7 +9,7 @@ It fetches **live stock data**, preprocesses it, and predicts the next closing p
 
 ## 🛠️ Tech Stack
 
-- **Language:** Python 3.x  
+- **Language:** Python 3.11.9 
 - **Libraries:** pandas, numpy, scikit-learn, tensorflow/keras, matplotlib, yfinance  
 - **API Framework:** FastAPI  
 - **UI:** Streamlit  
