@@ -20,7 +20,7 @@ pip install -r requirements.txt
 
 ## How to run 
 
-" streamlit run app.py --server.port 5000 "
+streamlit run app.py --server.port 5000 
 
 
 
@@ -82,4 +82,4 @@ pip install -r requirements.txt
 
 ## How to run 
 
-" streamlit run app.py
+streamlit run app.py
