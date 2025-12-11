@@ -83,3 +83,40 @@ pip install -r requirements.txt
 ## How to run 
 
 streamlit run app.py
+
+## Student Performance Predictor
+The Student Performance Predictor is a machine learning–powered web application designed to predict a student’s exam score and recommend improvements based on their personal and academic factors.
+
+This project includes:
+📊 Single Student Prediction
+👥 Batch Analysis
+📁 Dataset Upload & Insights
+🔍 Model Explainability
+📂 Dataset Explorer
+
+Users can enter various student details to generate predictions:
+Attendance Rate (%)
+Study Hours/Week
+Previous Grade
+Internet Usage (hrs/day)
+Sleep Hours/Night
+Extracurricular Activities
+Parental Involvement
+Tutoring Sessions/Month
+Assignment Completion (%)
+
+## Machine Learning Model Selection
+The app allows users to choose from different ML models, such as:
+Random Forest
+XGBoost
+Linear Regression
+Decision Tree
+Gradient Boosting
+
+## Install dependices
+pip install -r requirements.txt
+
+## How to run 
+streamlit run app.py
+
+<img width="1853" height="833" alt="image" src="https://github.com/user-attachments/assets/5e8550df-e94d-46d1-b40b-f35b0740ab18" />
