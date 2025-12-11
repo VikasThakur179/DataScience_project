@@ -1,25 +1,21 @@
 # DataScience_project
 
 #  Stock price 
-
 This project predicts short-term stock price movements using Machine Learning and Deep Learning (LSTM).  
 It fetches **live stock data**, preprocesses it, and predicts the next closing price or price trend.
 
 ---
 
 ##  Tech Stack
-
 - **Language:** Python 3.11.9 
 - **Libraries:** pandas, numpy, scikit-learn, tensorflow/keras, matplotlib, yfinance  
 - **API Framework:** FastAPI  
 - **UI:** Streamlit  
 
 ## Install dependices
-
 pip install -r requirements.txt
 
 ## How to run 
-
 streamlit run app.py --server.port 5000 
 
 
@@ -28,9 +24,7 @@ streamlit run app.py --server.port 5000
 A powerful and lightweight **language detection web application** built using **Python, Streamlit, LangDetect, and a custom N-gram ML model**.  
 LinguaScan can detect **50+ languages** from both **single text input** and **batch CSV/TXT datasets**.
 
-
 ##  Features
-
 ###  **1. Single Text Language Detection**
 - Enter or paste any text.
 - Detect language using:
@@ -64,10 +58,8 @@ LinguaScan can detect **50+ languages** from both **single text input** and **ba
 - Click **Load Sample** to auto-insert into the text box
 - Uses **Streamlit Session State** to avoid widget modification errors
 
----
 
 ## Technology Stack
-
 | Component | Technology |
 |----------|------------|
 | Frontend | Streamlit |
@@ -77,12 +69,13 @@ LinguaScan can detect **50+ languages** from both **single text input** and **ba
 | Data Processing | Pandas, NumPy |
 
 ## Install dependices
-
 pip install -r requirements.txt
 
 ## How to run 
-
 streamlit run app.py
+<img width="1849" height="880" alt="image" src="https://github.com/user-attachments/assets/bd03fc1d-9445-41ab-9d96-915222c21739" />
+
+
 
 ## Student Performance Predictor
 The Student Performance Predictor is a machine learning–powered web application designed to predict a student’s exam score and recommend improvements based on their personal and academic factors.
