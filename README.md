@@ -16,7 +16,9 @@ It fetches **live stock data**, preprocesses it, and predicts the next closing p
 pip install -r requirements.txt
 
 ## How to run 
-streamlit run app.py --server.port 5000 
+streamlit run app.py --server.port 5000
+<img width="1900" height="883" alt="image" src="https://github.com/user-attachments/assets/d5d43572-1b8d-4cee-a3c8-6a97e2daa676" />
+
 
 
 
