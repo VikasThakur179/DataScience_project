@@ -115,3 +115,26 @@ pip install -r requirements.txt
 streamlit run app.py
 
 <img width="1853" height="833" alt="image" src="https://github.com/user-attachments/assets/5e8550df-e94d-46d1-b40b-f35b0740ab18" />
+
+
+## Disease Prediction
+A Machine Learning–based Disease Prediction system that predicts diseases from user symptoms using an ensemble of models and exposes the prediction through a FastAPI REST API.
+
+## Features
+Predict disease from symptoms
+ML models: SVM, Naive Bayes, Random Forest
+Majority voting for final prediction
+FastAPI backend with Swagger UI
+Models saved using Joblib
+
+## Tech Stack
+Python • FastAPI • Scikit-learn • NumPy • Pandas • Joblib
+
+## Run the App
+uvicorn main:app --reload
+
+## Swagger UI:
+http://127.0.0.1:8000/docs
+
+<img width="992" height="895" alt="image" src="https://github.com/user-attachments/assets/9f1228b0-329e-4d72-af29-dbf29598727b" />
+
